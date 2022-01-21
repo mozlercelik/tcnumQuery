@@ -1,5 +1,5 @@
 # tcnumQuery
-Bu fonksiyon ile TC kimlik adresinin doğruluğu kontrol edebilirsiniz.
+Bu fonksiyon ile TC kimlik adresinin doğruluğunu kontrol edebilirsiniz.
 
 ## Usage
 
